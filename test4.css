@@ -1,0 +1,52 @@
+	#pageWrapper{
+		width: 1000px;
+		height: 700px;
+		background-color: #FFF;
+		margin-left: auto;
+		margin-right: auto;
+		border: 5px solid black;
+	}
+	
+	#header {
+		height: 127px;
+		width: 400px;
+		border: 5px solid black;
+		position:relative;
+		left: 200px;
+		top: -733px;
+	}
+	#header2 {
+		height: 127px;
+		width: 390px;
+		border: 5px solid black;
+		position:relative;
+		left: 605px;
+		top: -870px;
+	}
+	#navBar {
+		width: 200px;
+		height: 700px;
+		position: relative;
+		border: 5px solid black;
+		left: -5px;
+		top: -5px;
+	}
+	#text1 {
+		width: 795px;
+		height: 455px;
+		position: relative;
+		border: 5px solid black;
+		left: 200px;
+		top: -892px;
+	
+	}
+	#footer{
+		width: 795px;
+		height: 105px;
+		position: relative;
+		border: 5px solid black;
+		top: -896px;
+		left: 200px;
+		
+		
+	}

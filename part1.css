@@ -1,0 +1,20 @@
+	#pageWrapper{
+		width: 500px;
+		height: 500px;
+		background-color: #FFF;
+		margin-left: auto;
+		margin-right: auto;
+
+	}
+	
+	#header {
+		width:500 px;
+		border: 5px solid black;
+		position:relative;
+	}
+	#text1 {
+		width: 500px;
+		height: 450px;
+		position: relative;
+		border: 5px solid black;
+	}
